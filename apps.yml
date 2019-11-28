@@ -1,0 +1,67 @@
+com.android.calendar: Calendar
+com.android.documentsui: Documents UI
+com.android.email: Email
+com.android.htmlviewer: HTML Viewer
+com.android.musicfx: MusicFX
+com.android.providers.calendar: CalendarProvider
+com.android.providers.media: Media Provider
+com.android.providers.telephony: Telephony Provider
+com.android.wallpapercropper: Wallpaper Cropper
+com.android.webview: Webview
+com.flyme.systemuiex: SystemUIEx
+com.flyme.systemuitools: SystemUITools
+com.flyme.telecom.usagedata.service: Telecom Usage Data
+com.google.android.backuptransport: Google Backup Transport
+com.google.android.ext.services: Google Ext Services
+com.google.android.ext.shared: Google Ext Shared
+com.google.android.feedback: GoogleFeedback
+com.google.android.googlequicksearchbox: Google Quick Search Box
+com.google.android.onetimeinitializer: Google One Time Initializer
+com.google.android.syncadapters.contacts: Google Contacts Sync Adapter
+com.meizu.account: MzAccount
+com.meizu.activeviewlivewallpaper: Active View Live Wallpaper
+com.meizu.assistant: Meizu Assistant
+com.meizu.backup: MzBackup
+com.meizu.battery: MzBattery Manager
+com.meizu.callsetting: MzCall Setting
+com.meizu.cloud: Meizu Cloud
+com.meizu.connectivitysettings: ConnectivitySettings
+com.meizu.customizecenter: Customize Center
+com.meizu.datamigration: Data Migration
+com.meizu.desktopbackup: DesktopBackup
+com.meizu.experiencedatasync: Experience Data Sync
+com.meizu.facerecognition: FaceRecognition
+com.meizu.feedback: Meizu Feedback
+com.meizu.filemanager: File Manager
+com.meizu.flyme.calculator: Calculator
+com.meizu.flyme.easylauncher: EasyLauncher
+com.meizu.flyme.hometools: Home Tool
+com.meizu.flyme.input: MzInput
+com.meizu.flyme.launcher: Flyme Launcher
+com.meizu.flyme.sdkstage: SDKStage
+com.meizu.flyme.service.find: MzPhone Location Service
+com.meizu.flyme.toolbox: ToolBox
+com.meizu.flyme.update: Flyme Update
+com.meizu.flyme.weather: Weather
+com.meizu.flymelab: FlymeLab
+com.meizu.location: Meizu Network Location
+com.meizu.media.camera: Camera
+com.meizu.media.gallery: Gallery
+com.meizu.media.imageservice: PhotoService
+com.meizu.media.music: Music
+com.meizu.media.video: Video
+com.meizu.mzsyncservice: MzSync Service
+com.meizu.net.pedometer: Pedometer
+com.meizu.net.search: Search
+com.meizu.notepaper: Meizu Notepaper
+com.meizu.perfui: PerfUI
+com.meizu.picker: Picker
+com.meizu.powersave: Power Save Mode Home
+com.meizu.pps: PPS
+com.meizu.safe: Meizu Safe
+com.meizu.sceneinfo: Meizu Scene Info
+com.meizu.setup: MzSetupWizard
+com.meizu.share: Meizu Share
+com.meizu.systemwallpaper: SystemWallpaper
+com.meizu.wifiadmin: Wifi Admin
+com.mobiletools.systemhelper: System Helper
