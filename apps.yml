@@ -19,6 +19,7 @@ com.google.android.googlequicksearchbox: Google Quick Search Box
 com.google.android.onetimeinitializer: Google One Time Initializer
 com.google.android.syncadapters.contacts: Google Contacts Sync Adapter
 com.meizu.account: MzAccount
+com.meizu.account.pay: Meizu Pay
 com.meizu.activeviewlivewallpaper: Active View Live Wallpaper
 com.meizu.assistant: Meizu Assistant
 com.meizu.backup: MzBackup
