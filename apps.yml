@@ -15,11 +15,12 @@ com.google.android.backuptransport: Google Backup Transport
 com.google.android.ext.services: Google Ext Services
 com.google.android.ext.shared: Google Ext Shared
 com.google.android.feedback: GoogleFeedback
-com.google.android.googlequicksearchbox: Google Quick Search Box
+com.google.android.googlequicksearchbox: Google Search
 com.google.android.onetimeinitializer: Google One Time Initializer
 com.google.android.syncadapters.contacts: Google Contacts Sync Adapter
 com.meizu.account: MzAccount
-com.meizu.account.pay: Meizu Pay
+com.meizu.account.pay: Meizu Account Pay
+com.meizu.mznfcpay: Meizu Pay
 com.meizu.activeviewlivewallpaper: Active View Live Wallpaper
 com.meizu.assistant: Meizu Assistant
 com.meizu.backup: MzBackup
@@ -60,9 +61,20 @@ com.meizu.picker: Picker
 com.meizu.powersave: Power Save Mode Home
 com.meizu.pps: PPS
 com.meizu.safe: Meizu Safe
-com.meizu.sceneinfo: Meizu Scene Info
+com.meizu.sceneinfo: Family Guard
 com.meizu.setup: MzSetupWizard
 com.meizu.share: Meizu Share
 com.meizu.systemwallpaper: SystemWallpaper
 com.meizu.wifiadmin: Wifi Admin
 com.mobiletools.systemhelper: System Helper
+package:com.meizu.flymelab: FlymeLab
+com.google.android.apps.docs: Google Drive
+com.android.calendar: Calendar
+com.android.chrome: Google Chrome
+com.meizu.mstore: App Store
+com.google.android.gm: Google Maps
+tencent.qqlive.player.meizu: Video Decoder
+com.android.browser: Browser
+com.google.android.apps.tachyon: Google Duo
+com.google.android.videos: Google Movies
+com.android.music: Google Music
