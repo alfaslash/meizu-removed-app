@@ -1,4 +1,7 @@
+com.android.browser: Browser
 com.android.calendar: Calendar
+com.android.calendar: Calendar
+com.android.chrome: Google Chrome
 com.android.documentsui: Documents UI
 com.android.email: Email
 com.android.htmlviewer: HTML Viewer
@@ -8,28 +11,37 @@ com.android.providers.media: Media Provider
 com.android.providers.telephony: Telephony Provider
 com.android.wallpapercropper: Wallpaper Cropper
 com.android.webview: Webview
+com.emoji.keyboard.touchpal: TouchPal
 com.flyme.systemuiex: SystemUIEx
 com.flyme.systemuitools: SystemUITools
 com.flyme.telecom.usagedata.service: Telecom Usage Data
+com.google.android.apps.docs: Google Drive
+com.google.android.apps.maps: Google Maps
+com.google.android.apps.photos: Google Photos
+com.google.android.apps.tachyon: Google Duo
 com.google.android.backuptransport: Google Backup Transport
 com.google.android.ext.services: Google Ext Services
 com.google.android.ext.shared: Google Ext Shared
-com.google.android.feedback: GoogleFeedback
+com.google.android.feedback: Google Feedback Agent
 com.google.android.googlequicksearchbox: Google Search
+com.google.android.music: Google Play Music
 com.google.android.onetimeinitializer: Google One Time Initializer
+com.google.android.partnersetup: Google Partner Setup
+com.google.android.syncadapters.calendar: Google Calendar Sync
+com.google.android.syncadapters.contacts: Google Contacts Sync
 com.google.android.syncadapters.contacts: Google Contacts Sync Adapter
-com.meizu.account: MzAccount
-com.meizu.account.pay: Meizu Account Pay
-com.meizu.mznfcpay: Meizu Pay
+com.google.android.videos: Google Movies
+com.meizu.account: Flyme Account
+com.meizu.account.pay: Pay Center
 com.meizu.activeviewlivewallpaper: Active View Live Wallpaper
 com.meizu.assistant: Meizu Assistant
 com.meizu.backup: MzBackup
 com.meizu.battery: MzBattery Manager
 com.meizu.callsetting: MzCall Setting
-com.meizu.cloud: Meizu Cloud
+com.meizu.cloud: Push Service
 com.meizu.connectivitysettings: ConnectivitySettings
 com.meizu.customizecenter: Customize Center
-com.meizu.datamigration: Data Migration
+com.meizu.datamigration: Migratool
 com.meizu.desktopbackup: DesktopBackup
 com.meizu.experiencedatasync: Experience Data Sync
 com.meizu.facerecognition: FaceRecognition
@@ -41,18 +53,21 @@ com.meizu.flyme.hometools: Home Tool
 com.meizu.flyme.input: MzInput
 com.meizu.flyme.launcher: Flyme Launcher
 com.meizu.flyme.sdkstage: SDKStage
-com.meizu.flyme.service.find: MzPhone Location Service
+com.meizu.flyme.service.find: Phone Location Service
 com.meizu.flyme.toolbox: ToolBox
 com.meizu.flyme.update: Flyme Update
 com.meizu.flyme.weather: Weather
 com.meizu.flymelab: FlymeLab
-com.meizu.location: Meizu Network Location
+com.meizu.intl.reader: News
+com.meizu.location: Network Location Service
 com.meizu.media.camera: Camera
 com.meizu.media.gallery: Gallery
 com.meizu.media.imageservice: PhotoService
 com.meizu.media.music: Music
 com.meizu.media.video: Video
-com.meizu.mzsyncservice: MzSync Service
+com.meizu.mstore: App Store
+com.meizu.mznfcpay: Meizu Pay
+com.meizu.mzsyncservice: Flyme Cloud Service
 com.meizu.net.pedometer: Pedometer
 com.meizu.net.search: Search
 com.meizu.notepaper: Meizu Notepaper
@@ -68,13 +83,5 @@ com.meizu.systemwallpaper: SystemWallpaper
 com.meizu.wifiadmin: Wifi Admin
 com.mobiletools.systemhelper: System Helper
 package:com.meizu.flymelab: FlymeLab
-com.google.android.apps.docs: Google Drive
-com.android.calendar: Calendar
-com.android.chrome: Google Chrome
-com.meizu.mstore: App Store
-com.google.android.gm: Google Maps
 tencent.qqlive.player.meizu: Video Decoder
-com.android.browser: Browser
-com.google.android.apps.tachyon: Google Duo
-com.google.android.videos: Google Movies
-com.android.music: Google Music
+com.xrom.intl.appcenter: App Store
