@@ -1,6 +1,5 @@
 com.android.browser: Browser
 com.android.calendar: Calendar
-com.android.calendar: Calendar
 com.android.chrome: Google Chrome
 com.android.documentsui: Documents UI
 com.android.email: Email
@@ -28,7 +27,6 @@ com.google.android.music: Google Play Music
 com.google.android.onetimeinitializer: Google One Time Initializer
 com.google.android.partnersetup: Google Partner Setup
 com.google.android.syncadapters.calendar: Google Calendar Sync
-com.google.android.syncadapters.contacts: Google Contacts Sync
 com.google.android.syncadapters.contacts: Google Contacts Sync Adapter
 com.google.android.videos: Google Movies
 com.meizu.account: Flyme Account
